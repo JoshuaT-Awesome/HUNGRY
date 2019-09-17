@@ -1,4 +1,4 @@
-This is an app that makes calls and retrieves data from the Yelp API.  Feel free to use it at http://hungry.surge.sh/
+This is an app that makes calls and retrieves data from the Yelp API.
 
 This was my first ever app using React.JS and I will say I'm pleased with how easy React is to work with. If you have any upgrades in mind let me know or do a pull request.  Thanks for stopping by!
 
